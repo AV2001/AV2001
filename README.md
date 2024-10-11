@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm **Anirudh Vadlamani**, a Software Engineer leveraging AI & LLMs.
+## I'm **Anirudh Vadlamani**, a Software Engineer leveraging AI & LLMs.
   
 - 💡 **Skills & Expertise**:
   - **Languages**: Python, JavaScript, Java
