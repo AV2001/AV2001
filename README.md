@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**AV2001/AV2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Anirudh Vadlamani**, a Software Engineer leveraging AI & LLMs.
+  
+- 💡 **Skills & Expertise**:
+  - **Languages**: Python, JavaScript, Java
+  - **Frameworks & Tools**: React, Flask, Django, Docker, AWS
+  - **Databases**: PostgreSQL, MySQL, MongoDB
 
-Here are some ideas to get you started:
+- 💻 **Some cool projects**:
+  - **Quizr**: An AI-driven quiz generation platform with personalized quizzes based on text, images, and PDFs. [Live Demo](https://tryquizr.com/) 🎉
+  - **Smart Commerce**: An NLP-powered eCommerce site that brings intelligent search and wishlist capabilities to users. [Live Demo](https://smart-commerce-c674b9990c8a.herokuapp.com/) 🛍️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 **How to reach me**:  
+  - LinkedIn: [linkedin.com/in/anirudh-vadlamani](https://www.linkedin.com/in/anirudh-vadlamani)
+  - X: [ani-on-x](https://x.com/ani_on_x)
+
+Looking forward to connecting with you and building awesome things together! 🚀
